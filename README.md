@@ -91,5 +91,5 @@ Through this project, I improved my skills in:
 This project helped me strengthen both my technical and analytical skills by combining SQL, data modeling, and dashboard design in a realistic business scenario.
 
 ## 📬 Contact
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/yiğitfikretyakın)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yiğitfikretyakın)
 - GitHub: [GitHub Profile](https://github.com/yigitykn)
