@@ -1,0 +1,7 @@
+payment_method_id,payment_method
+PM01,Credit Card
+PM02,Debit Card
+PM03,Digital Wallet
+PM04,Cash on Delivery
+PM05,Bank Transfer
+PM06,Buy Now Pay Later

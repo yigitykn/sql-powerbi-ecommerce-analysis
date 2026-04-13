@@ -1,0 +1,614 @@
+product_id,product_name,category,subcategory,brand,list_price
+PRD00001,HyperSound Computers 1,Electronics,Computers,HyperSound,10338.53
+PRD00002,GlowLab Fragrance 2,Beauty,Fragrance,GlowLab,1496.92
+PRD00003,GrainHouse Beverages 3,Grocery,Beverages,GrainHouse,80.2
+PRD00004,Readly Stationery 4,Books & Media,Stationery,Readly,320.21
+PRD00005,HyperSound Audio 5,Electronics,Audio,HyperSound,1776.58
+PRD00006,LumaHome Kitchen 6,Home & Living,Kitchen,LumaHome,2832.29
+PRD00007,StudioArc Books 7,Books & Media,Books,StudioArc,160.23
+PRD00008,StudioArc Stationery 8,Books & Media,Stationery,StudioArc,520.92
+PRD00009,FitSphere Fitness 9,Sports & Outdoors,Fitness,FitSphere,346.21
+PRD00010,PureMint Makeup 10,Beauty,Makeup,PureMint,784.92
+PRD00011,HyperSound Smartphones 11,Electronics,Smartphones,HyperSound,5677.06
+PRD00012,PaperMuse Books 12,Books & Media,Books,PaperMuse,821.38
+PRD00013,AromaNest Makeup 13,Beauty,Makeup,AromaNest,555.53
+PRD00014,DailyDrop Staples 14,Grocery,Staples,DailyDrop,159.75
+PRD00015,UrbanLeaf Bags 15,Fashion,Bags,UrbanLeaf,949.83
+PRD00016,TrailPeak Team Sports 16,Sports & Outdoors,Team Sports,TrailPeak,1465.85
+PRD00017,Nord&Co Cleaning 17,Home & Living,Cleaning,Nord&Co,362.94
+PRD00018,GlowLab Fragrance 18,Beauty,Fragrance,GlowLab,126.96
+PRD00019,Elyra Shoes 19,Fashion,Shoes,Elyra,1471.16
+PRD00020,TekNova Gaming 20,Electronics,Gaming,TekNova,689.6
+PRD00021,CycloMax Outdoor 21,Sports & Outdoors,Outdoor,CycloMax,1808.18
+PRD00022,PureMint Skincare 22,Beauty,Skincare,PureMint,630.24
+PRD00023,Brew&Co Beverages 23,Grocery,Beverages,Brew&Co,75.05
+PRD00024,Readly Stationery 24,Books & Media,Stationery,Readly,470.64
+PRD00025,DailyDrop Beverages 25,Grocery,Beverages,DailyDrop,81.92
+PRD00026,CleanBee Cleaning 26,Home & Living,Cleaning,CleanBee,2607.33
+PRD00027,Voxa Audio 27,Electronics,Audio,Voxa,11478.57
+PRD00028,TrailPeak Team Sports 28,Sports & Outdoors,Team Sports,TrailPeak,3240.92
+PRD00029,Readly Books 29,Books & Media,Books,Readly,786.26
+PRD00030,Voxa Accessories 30,Electronics,Accessories,Voxa,4646.66
+PRD00031,GrainHouse Staples 31,Grocery,Staples,GrainHouse,63.2
+PRD00032,StudioArc Movies 32,Books & Media,Movies,StudioArc,87.64
+PRD00033,Readly Books 33,Books & Media,Books,Readly,771.97
+PRD00034,TrailPeak Outdoor 34,Sports & Outdoors,Outdoor,TrailPeak,311.11
+PRD00035,DailyDrop Beverages 35,Grocery,Beverages,DailyDrop,283.68
+PRD00036,StudioArc Music 36,Books & Media,Music,StudioArc,777.51
+PRD00037,StudioArc Stationery 37,Books & Media,Stationery,StudioArc,356.06
+PRD00038,FitSphere Team Sports 38,Sports & Outdoors,Team Sports,FitSphere,3675.43
+PRD00039,AromaNest Haircare 39,Beauty,Haircare,AromaNest,1172.29
+PRD00040,StudioArc Music 40,Books & Media,Music,StudioArc,112.66
+PRD00041,StudioArc Books 41,Books & Media,Books,StudioArc,257.91
+PRD00042,DailyDrop Beverages 42,Grocery,Beverages,DailyDrop,270.91
+PRD00043,Brew&Co Breakfast 43,Grocery,Breakfast,Brew&Co,155.23
+PRD00044,AromaNest Fragrance 44,Beauty,Fragrance,AromaNest,1393.93
+PRD00045,Kiddo Women 45,Fashion,Women,Kiddo,880.3
+PRD00046,Nord&Co Home Decor 46,Home & Living,Home Decor,Nord&Co,3454.28
+PRD00047,Voxa Smartphones 47,Electronics,Smartphones,Voxa,8311.63
+PRD00048,FitSphere Fitness 48,Sports & Outdoors,Fitness,FitSphere,3531.3
+PRD00049,HyperSound Smartphones 49,Electronics,Smartphones,HyperSound,8071.8
+PRD00050,GrainHouse Breakfast 50,Grocery,Breakfast,GrainHouse,217.98
+PRD00051,GrainHouse Breakfast 51,Grocery,Breakfast,GrainHouse,295.72
+PRD00052,CasaPro Furniture 52,Home & Living,Furniture,CasaPro,507.24
+PRD00053,PaperMuse Music 53,Books & Media,Music,PaperMuse,570.03
+PRD00054,CleanBee Small Appliances 54,Home & Living,Small Appliances,CleanBee,672.1
+PRD00055,CleanBee Home Decor 55,Home & Living,Home Decor,CleanBee,3315.4
+PRD00056,TrailPeak Fitness 56,Sports & Outdoors,Fitness,TrailPeak,640.29
+PRD00057,ArenaPro Outdoor 57,Sports & Outdoors,Outdoor,ArenaPro,2402.63
+PRD00058,FitSphere Outdoor 58,Sports & Outdoors,Outdoor,FitSphere,2843.77
+PRD00059,TrailPeak Outdoor 59,Sports & Outdoors,Outdoor,TrailPeak,2109.43
+PRD00060,StudioArc Books 60,Books & Media,Books,StudioArc,464.96
+PRD00061,Orbi Smartphones 61,Electronics,Smartphones,Orbi,902.92
+PRD00062,StudioArc Stationery 62,Books & Media,Stationery,StudioArc,353.83
+PRD00063,Voxa Gaming 63,Electronics,Gaming,Voxa,3903.8
+PRD00064,Readly Movies 64,Books & Media,Movies,Readly,761.6
+PRD00065,CycloMax Fitness 65,Sports & Outdoors,Fitness,CycloMax,1940.99
+PRD00066,AromaNest Skincare 66,Beauty,Skincare,AromaNest,928.24
+PRD00067,CleanBee Small Appliances 67,Home & Living,Small Appliances,CleanBee,2300.09
+PRD00068,Readly Movies 68,Books & Media,Movies,Readly,822.21
+PRD00069,TekNova Gaming 69,Electronics,Gaming,TekNova,6111.1
+PRD00070,Elyra Women 70,Fashion,Women,Elyra,2044.77
+PRD00071,UrbanLeaf Men 71,Fashion,Men,UrbanLeaf,1387.57
+PRD00072,ArenaPro Outdoor 72,Sports & Outdoors,Outdoor,ArenaPro,1827.54
+PRD00073,UrbanLeaf Kids 73,Fashion,Kids,UrbanLeaf,1664.96
+PRD00074,Snackster Breakfast 74,Grocery,Breakfast,Snackster,201.08
+PRD00075,GlowLab Fragrance 75,Beauty,Fragrance,GlowLab,173.27
+PRD00076,GrainHouse Staples 76,Grocery,Staples,GrainHouse,302.47
+PRD00077,AromaNest Skincare 77,Beauty,Skincare,AromaNest,1621.54
+PRD00078,GlowLab Haircare 78,Beauty,Haircare,GlowLab,768.77
+PRD00079,CycloMax Fitness 79,Sports & Outdoors,Fitness,CycloMax,1702.81
+PRD00080,Kiddo Women 80,Fashion,Women,Kiddo,899.67
+PRD00081,TekNova Smartphones 81,Electronics,Smartphones,TekNova,457.61
+PRD00082,Nord&Co Furniture 82,Home & Living,Furniture,Nord&Co,3147.73
+PRD00083,Mira Furniture 83,Home & Living,Furniture,Mira,905.49
+PRD00084,ArenaPro Outdoor 84,Sports & Outdoors,Outdoor,ArenaPro,2737.44
+PRD00085,Nord&Co Home Decor 85,Home & Living,Home Decor,Nord&Co,428.48
+PRD00086,CleanBee Cleaning 86,Home & Living,Cleaning,CleanBee,220.49
+PRD00087,Orbi Smartphones 87,Electronics,Smartphones,Orbi,4767.93
+PRD00088,Auron Smartphones 88,Electronics,Smartphones,Auron,1566.83
+PRD00089,GlowLab Fragrance 89,Beauty,Fragrance,GlowLab,910.57
+PRD00090,StudioArc Books 90,Books & Media,Books,StudioArc,158.86
+PRD00091,Orbi Smartphones 91,Electronics,Smartphones,Orbi,617.58
+PRD00092,CasaPro Furniture 92,Home & Living,Furniture,CasaPro,2197.39
+PRD00093,AromaNest Makeup 93,Beauty,Makeup,AromaNest,634.46
+PRD00094,FitSphere Team Sports 94,Sports & Outdoors,Team Sports,FitSphere,193.85
+PRD00095,PaperMuse Music 95,Books & Media,Music,PaperMuse,636.06
+PRD00096,Readly Movies 96,Books & Media,Movies,Readly,149.14
+PRD00097,Voxa Gaming 97,Electronics,Gaming,Voxa,7556.06
+PRD00098,DermaVie Skincare 98,Beauty,Skincare,DermaVie,523.77
+PRD00099,Readly Music 99,Books & Media,Music,Readly,50.72
+PRD00100,Readly Stationery 100,Books & Media,Stationery,Readly,168.46
+PRD00101,Mira Kitchen 101,Home & Living,Kitchen,Mira,3201.03
+PRD00102,Nord&Co Furniture 102,Home & Living,Furniture,Nord&Co,2580.49
+PRD00103,Brew&Co Breakfast 103,Grocery,Breakfast,Brew&Co,312.34
+PRD00104,TekNova Computers 104,Electronics,Computers,TekNova,3999.81
+PRD00105,TekNova Smartphones 105,Electronics,Smartphones,TekNova,4880.76
+PRD00106,UrbanLeaf Women 106,Fashion,Women,UrbanLeaf,655.16
+PRD00107,DermaVie Makeup 107,Beauty,Makeup,DermaVie,937.32
+PRD00108,HyperSound Accessories 108,Electronics,Accessories,HyperSound,10551.35
+PRD00109,DailyDrop Snacks 109,Grocery,Snacks,DailyDrop,68.7
+PRD00110,AromaNest Skincare 110,Beauty,Skincare,AromaNest,724.84
+PRD00111,HyperSound Accessories 111,Electronics,Accessories,HyperSound,1667.7
+PRD00112,Snackster Beverages 112,Grocery,Beverages,Snackster,98.22
+PRD00113,Elyra Men 113,Fashion,Men,Elyra,1723.55
+PRD00114,Nord&Co Cleaning 114,Home & Living,Cleaning,Nord&Co,509.77
+PRD00115,DailyDrop Beverages 115,Grocery,Beverages,DailyDrop,149.15
+PRD00116,Nord&Co Furniture 116,Home & Living,Furniture,Nord&Co,3461.03
+PRD00117,CycloMax Outdoor 117,Sports & Outdoors,Outdoor,CycloMax,3199.31
+PRD00118,Voxa Audio 118,Electronics,Audio,Voxa,7758.41
+PRD00119,AromaNest Skincare 119,Beauty,Skincare,AromaNest,1331.77
+PRD00120,FitSphere Fitness 120,Sports & Outdoors,Fitness,FitSphere,3402.51
+PRD00121,SoleCraft Kids 121,Fashion,Kids,SoleCraft,1472.39
+PRD00122,Readly Stationery 122,Books & Media,Stationery,Readly,596.48
+PRD00123,FitSphere Outdoor 123,Sports & Outdoors,Outdoor,FitSphere,2692.09
+PRD00124,DermaVie Fragrance 124,Beauty,Fragrance,DermaVie,1232.02
+PRD00125,LumaHome Small Appliances 125,Home & Living,Small Appliances,LumaHome,772.63
+PRD00126,CycloMax Outdoor 126,Sports & Outdoors,Outdoor,CycloMax,210.12
+PRD00127,Snackster Staples 127,Grocery,Staples,Snackster,126.93
+PRD00128,DermaVie Fragrance 128,Beauty,Fragrance,DermaVie,1762.73
+PRD00129,HyperSound Audio 129,Electronics,Audio,HyperSound,3072.66
+PRD00130,AromaNest Haircare 130,Beauty,Haircare,AromaNest,664.78
+PRD00131,CycloMax Cycling 131,Sports & Outdoors,Cycling,CycloMax,1760.47
+PRD00132,Orbi Accessories 132,Electronics,Accessories,Orbi,1068.28
+PRD00133,CycloMax Cycling 133,Sports & Outdoors,Cycling,CycloMax,2652.42
+PRD00134,Nord&Co Kitchen 134,Home & Living,Kitchen,Nord&Co,2569.22
+PRD00135,SoleCraft Bags 135,Fashion,Bags,SoleCraft,1817.43
+PRD00136,NovaWear Women 136,Fashion,Women,NovaWear,1941.21
+PRD00137,DermaVie Skincare 137,Beauty,Skincare,DermaVie,1205.36
+PRD00138,Orbi Smartphones 138,Electronics,Smartphones,Orbi,9921.71
+PRD00139,Elyra Bags 139,Fashion,Bags,Elyra,847.32
+PRD00140,DermaVie Fragrance 140,Beauty,Fragrance,DermaVie,771.45
+PRD00141,CleanBee Furniture 141,Home & Living,Furniture,CleanBee,3416.54
+PRD00142,SoleCraft Men 142,Fashion,Men,SoleCraft,1833.09
+PRD00143,SoleCraft Shoes 143,Fashion,Shoes,SoleCraft,1828.95
+PRD00144,LumaHome Kitchen 144,Home & Living,Kitchen,LumaHome,2394.15
+PRD00145,StudioArc Books 145,Books & Media,Books,StudioArc,543.76
+PRD00146,Brew&Co Snacks 146,Grocery,Snacks,Brew&Co,303.19
+PRD00147,LumaHome Small Appliances 147,Home & Living,Small Appliances,LumaHome,1302.2
+PRD00148,UrbanLeaf Bags 148,Fashion,Bags,UrbanLeaf,1385.88
+PRD00149,TrailPeak Team Sports 149,Sports & Outdoors,Team Sports,TrailPeak,2358.22
+PRD00150,GrainHouse Breakfast 150,Grocery,Breakfast,GrainHouse,57.9
+PRD00151,TrailPeak Outdoor 151,Sports & Outdoors,Outdoor,TrailPeak,1705.64
+PRD00152,CleanBee Small Appliances 152,Home & Living,Small Appliances,CleanBee,1418.9
+PRD00153,Elyra Shoes 153,Fashion,Shoes,Elyra,262.53
+PRD00154,NovaWear Bags 154,Fashion,Bags,NovaWear,1829.33
+PRD00155,ArenaPro Cycling 155,Sports & Outdoors,Cycling,ArenaPro,2760.02
+PRD00156,SoleCraft Men 156,Fashion,Men,SoleCraft,1056.72
+PRD00157,GrainHouse Snacks 157,Grocery,Snacks,GrainHouse,337.8
+PRD00158,AromaNest Fragrance 158,Beauty,Fragrance,AromaNest,730.33
+PRD00159,Mira Furniture 159,Home & Living,Furniture,Mira,1533.43
+PRD00160,Snackster Beverages 160,Grocery,Beverages,Snackster,69.74
+PRD00161,TrailPeak Team Sports 161,Sports & Outdoors,Team Sports,TrailPeak,951.59
+PRD00162,Elyra Shoes 162,Fashion,Shoes,Elyra,926.69
+PRD00163,GrainHouse Breakfast 163,Grocery,Breakfast,GrainHouse,28.53
+PRD00164,CycloMax Fitness 164,Sports & Outdoors,Fitness,CycloMax,3369.41
+PRD00165,Orbi Gaming 165,Electronics,Gaming,Orbi,6535.05
+PRD00166,LumaHome Small Appliances 166,Home & Living,Small Appliances,LumaHome,1058.28
+PRD00167,HyperSound Gaming 167,Electronics,Gaming,HyperSound,11334.74
+PRD00168,StudioArc Stationery 168,Books & Media,Stationery,StudioArc,117.19
+PRD00169,PureMint Fragrance 169,Beauty,Fragrance,PureMint,359.36
+PRD00170,PureMint Makeup 170,Beauty,Makeup,PureMint,173.99
+PRD00171,LumaHome Furniture 171,Home & Living,Furniture,LumaHome,2220.88
+PRD00172,Snackster Beverages 172,Grocery,Beverages,Snackster,196.06
+PRD00173,SoleCraft Women 173,Fashion,Women,SoleCraft,990.39
+PRD00174,UrbanLeaf Bags 174,Fashion,Bags,UrbanLeaf,1171.84
+PRD00175,AromaNest Makeup 175,Beauty,Makeup,AromaNest,1180.31
+PRD00176,Kiddo Shoes 176,Fashion,Shoes,Kiddo,1819.54
+PRD00177,Mira Cleaning 177,Home & Living,Cleaning,Mira,2345.85
+PRD00178,CycloMax Outdoor 178,Sports & Outdoors,Outdoor,CycloMax,628.88
+PRD00179,TekNova Computers 179,Electronics,Computers,TekNova,3452.89
+PRD00180,GrainHouse Beverages 180,Grocery,Beverages,GrainHouse,106.6
+PRD00181,LumaHome Small Appliances 181,Home & Living,Small Appliances,LumaHome,2491.2
+PRD00182,Voxa Accessories 182,Electronics,Accessories,Voxa,9891.55
+PRD00183,DailyDrop Breakfast 183,Grocery,Breakfast,DailyDrop,270.66
+PRD00184,Kiddo Women 184,Fashion,Women,Kiddo,1915.75
+PRD00185,GlowLab Fragrance 185,Beauty,Fragrance,GlowLab,935.28
+PRD00186,AromaNest Haircare 186,Beauty,Haircare,AromaNest,1539.8
+PRD00187,CasaPro Small Appliances 187,Home & Living,Small Appliances,CasaPro,2153.54
+PRD00188,UrbanLeaf Men 188,Fashion,Men,UrbanLeaf,922.16
+PRD00189,CleanBee Cleaning 189,Home & Living,Cleaning,CleanBee,558.99
+PRD00190,LumaHome Furniture 190,Home & Living,Furniture,LumaHome,1559.2
+PRD00191,StudioArc Books 191,Books & Media,Books,StudioArc,736.55
+PRD00192,TekNova Smartphones 192,Electronics,Smartphones,TekNova,9028.14
+PRD00193,PureMint Haircare 193,Beauty,Haircare,PureMint,1668.92
+PRD00194,TrailPeak Cycling 194,Sports & Outdoors,Cycling,TrailPeak,1242.99
+PRD00195,PureMint Fragrance 195,Beauty,Fragrance,PureMint,1703.9
+PRD00196,LumaHome Home Decor 196,Home & Living,Home Decor,LumaHome,633.84
+PRD00197,CasaPro Cleaning 197,Home & Living,Cleaning,CasaPro,3046.59
+PRD00198,CleanBee Kitchen 198,Home & Living,Kitchen,CleanBee,1588.98
+PRD00199,FitSphere Outdoor 199,Sports & Outdoors,Outdoor,FitSphere,1653.0
+PRD00200,TekNova Computers 200,Electronics,Computers,TekNova,8904.15
+PRD00201,PaperMuse Movies 201,Books & Media,Movies,PaperMuse,394.64
+PRD00202,Snackster Beverages 202,Grocery,Beverages,Snackster,127.85
+PRD00203,LumaHome Home Decor 203,Home & Living,Home Decor,LumaHome,163.62
+PRD00204,FitSphere Outdoor 204,Sports & Outdoors,Outdoor,FitSphere,317.42
+PRD00205,DermaVie Fragrance 205,Beauty,Fragrance,DermaVie,1422.55
+PRD00206,StudioArc Stationery 206,Books & Media,Stationery,StudioArc,426.6
+PRD00207,UrbanLeaf Men 207,Fashion,Men,UrbanLeaf,1298.22
+PRD00208,Snackster Breakfast 208,Grocery,Breakfast,Snackster,39.81
+PRD00209,Voxa Smartphones 209,Electronics,Smartphones,Voxa,7067.82
+PRD00210,Readly Stationery 210,Books & Media,Stationery,Readly,172.04
+PRD00211,StudioArc Movies 211,Books & Media,Movies,StudioArc,226.3
+PRD00212,Kiddo Bags 212,Fashion,Bags,Kiddo,680.25
+PRD00213,Snackster Beverages 213,Grocery,Beverages,Snackster,89.49
+PRD00214,FitSphere Outdoor 214,Sports & Outdoors,Outdoor,FitSphere,3070.44
+PRD00215,HyperSound Computers 215,Electronics,Computers,HyperSound,6028.8
+PRD00216,GrainHouse Staples 216,Grocery,Staples,GrainHouse,46.89
+PRD00217,CycloMax Fitness 217,Sports & Outdoors,Fitness,CycloMax,718.62
+PRD00218,PureMint Makeup 218,Beauty,Makeup,PureMint,1388.99
+PRD00219,Nord&Co Home Decor 219,Home & Living,Home Decor,Nord&Co,845.89
+PRD00220,StudioArc Books 220,Books & Media,Books,StudioArc,494.55
+PRD00221,CleanBee Small Appliances 221,Home & Living,Small Appliances,CleanBee,3448.86
+PRD00222,PureMint Skincare 222,Beauty,Skincare,PureMint,1371.09
+PRD00223,PureMint Skincare 223,Beauty,Skincare,PureMint,1037.31
+PRD00224,Readly Stationery 224,Books & Media,Stationery,Readly,769.96
+PRD00225,DermaVie Haircare 225,Beauty,Haircare,DermaVie,1617.12
+PRD00226,PureMint Makeup 226,Beauty,Makeup,PureMint,1329.44
+PRD00227,AromaNest Makeup 227,Beauty,Makeup,AromaNest,692.28
+PRD00228,PureMint Haircare 228,Beauty,Haircare,PureMint,1307.02
+PRD00229,TrailPeak Fitness 229,Sports & Outdoors,Fitness,TrailPeak,3318.73
+PRD00230,Orbi Computers 230,Electronics,Computers,Orbi,459.87
+PRD00231,CasaPro Cleaning 231,Home & Living,Cleaning,CasaPro,2986.28
+PRD00232,PureMint Haircare 232,Beauty,Haircare,PureMint,897.92
+PRD00233,Auron Computers 233,Electronics,Computers,Auron,2303.99
+PRD00234,Elyra Bags 234,Fashion,Bags,Elyra,1383.93
+PRD00235,GlowLab Skincare 235,Beauty,Skincare,GlowLab,902.77
+PRD00236,Orbi Smartphones 236,Electronics,Smartphones,Orbi,6360.84
+PRD00237,FitSphere Outdoor 237,Sports & Outdoors,Outdoor,FitSphere,662.38
+PRD00238,Voxa Audio 238,Electronics,Audio,Voxa,3535.73
+PRD00239,GlowLab Skincare 239,Beauty,Skincare,GlowLab,997.05
+PRD00240,GlowLab Fragrance 240,Beauty,Fragrance,GlowLab,1701.51
+PRD00241,GrainHouse Snacks 241,Grocery,Snacks,GrainHouse,64.16
+PRD00242,Readly Movies 242,Books & Media,Movies,Readly,452.63
+PRD00243,UrbanLeaf Shoes 243,Fashion,Shoes,UrbanLeaf,628.83
+PRD00244,Voxa Computers 244,Electronics,Computers,Voxa,11660.84
+PRD00245,Snackster Snacks 245,Grocery,Snacks,Snackster,242.81
+PRD00246,DermaVie Makeup 246,Beauty,Makeup,DermaVie,686.55
+PRD00247,Auron Gaming 247,Electronics,Gaming,Auron,2762.51
+PRD00248,CycloMax Team Sports 248,Sports & Outdoors,Team Sports,CycloMax,2876.19
+PRD00249,PureMint Makeup 249,Beauty,Makeup,PureMint,1138.42
+PRD00250,CasaPro Small Appliances 250,Home & Living,Small Appliances,CasaPro,901.65
+PRD00251,Kiddo Men 251,Fashion,Men,Kiddo,113.94
+PRD00252,NovaWear Women 252,Fashion,Women,NovaWear,1716.23
+PRD00253,HyperSound Computers 253,Electronics,Computers,HyperSound,3874.4
+PRD00254,PaperMuse Books 254,Books & Media,Books,PaperMuse,277.29
+PRD00255,Readly Books 255,Books & Media,Books,Readly,808.62
+PRD00256,GlowLab Fragrance 256,Beauty,Fragrance,GlowLab,949.58
+PRD00257,GlowLab Makeup 257,Beauty,Makeup,GlowLab,1744.58
+PRD00258,PaperMuse Music 258,Books & Media,Music,PaperMuse,524.92
+PRD00259,LumaHome Kitchen 259,Home & Living,Kitchen,LumaHome,310.94
+PRD00260,ArenaPro Outdoor 260,Sports & Outdoors,Outdoor,ArenaPro,1837.51
+PRD00261,StudioArc Movies 261,Books & Media,Movies,StudioArc,839.48
+PRD00262,GlowLab Makeup 262,Beauty,Makeup,GlowLab,414.98
+PRD00263,CycloMax Fitness 263,Sports & Outdoors,Fitness,CycloMax,3805.42
+PRD00264,Auron Audio 264,Electronics,Audio,Auron,4011.89
+PRD00265,TrailPeak Outdoor 265,Sports & Outdoors,Outdoor,TrailPeak,2191.55
+PRD00266,Nord&Co Small Appliances 266,Home & Living,Small Appliances,Nord&Co,1865.17
+PRD00267,AromaNest Fragrance 267,Beauty,Fragrance,AromaNest,1375.1
+PRD00268,PureMint Haircare 268,Beauty,Haircare,PureMint,1576.08
+PRD00269,Mira Cleaning 269,Home & Living,Cleaning,Mira,723.32
+PRD00270,ArenaPro Team Sports 270,Sports & Outdoors,Team Sports,ArenaPro,2488.83
+PRD00271,TrailPeak Fitness 271,Sports & Outdoors,Fitness,TrailPeak,3055.23
+PRD00272,Readly Movies 272,Books & Media,Movies,Readly,895.71
+PRD00273,UrbanLeaf Men 273,Fashion,Men,UrbanLeaf,433.51
+PRD00274,CasaPro Cleaning 274,Home & Living,Cleaning,CasaPro,354.55
+PRD00275,Kiddo Shoes 275,Fashion,Shoes,Kiddo,356.56
+PRD00276,CycloMax Team Sports 276,Sports & Outdoors,Team Sports,CycloMax,1237.67
+PRD00277,Brew&Co Breakfast 277,Grocery,Breakfast,Brew&Co,157.79
+PRD00278,StudioArc Stationery 278,Books & Media,Stationery,StudioArc,84.5
+PRD00279,Auron Gaming 279,Electronics,Gaming,Auron,8301.27
+PRD00280,FitSphere Team Sports 280,Sports & Outdoors,Team Sports,FitSphere,2456.22
+PRD00281,DailyDrop Breakfast 281,Grocery,Breakfast,DailyDrop,265.6
+PRD00282,CasaPro Kitchen 282,Home & Living,Kitchen,CasaPro,2665.78
+PRD00283,NovaWear Women 283,Fashion,Women,NovaWear,1755.46
+PRD00284,Voxa Audio 284,Electronics,Audio,Voxa,3744.59
+PRD00285,Snackster Snacks 285,Grocery,Snacks,Snackster,271.38
+PRD00286,Auron Gaming 286,Electronics,Gaming,Auron,10828.27
+PRD00287,GrainHouse Staples 287,Grocery,Staples,GrainHouse,268.3
+PRD00288,ArenaPro Outdoor 288,Sports & Outdoors,Outdoor,ArenaPro,2337.69
+PRD00289,StudioArc Music 289,Books & Media,Music,StudioArc,502.26
+PRD00290,TrailPeak Cycling 290,Sports & Outdoors,Cycling,TrailPeak,470.78
+PRD00291,Orbi Computers 291,Electronics,Computers,Orbi,7223.11
+PRD00292,Readly Stationery 292,Books & Media,Stationery,Readly,474.43
+PRD00293,DailyDrop Beverages 293,Grocery,Beverages,DailyDrop,336.3
+PRD00294,NovaWear Women 294,Fashion,Women,NovaWear,1951.05
+PRD00295,TrailPeak Outdoor 295,Sports & Outdoors,Outdoor,TrailPeak,326.9
+PRD00296,Voxa Smartphones 296,Electronics,Smartphones,Voxa,7797.23
+PRD00297,UrbanLeaf Women 297,Fashion,Women,UrbanLeaf,409.26
+PRD00298,CasaPro Furniture 298,Home & Living,Furniture,CasaPro,3166.52
+PRD00299,DermaVie Skincare 299,Beauty,Skincare,DermaVie,111.2
+PRD00300,Snackster Staples 300,Grocery,Staples,Snackster,113.48
+PRD00301,DermaVie Haircare 301,Beauty,Haircare,DermaVie,1274.64
+PRD00302,DermaVie Fragrance 302,Beauty,Fragrance,DermaVie,973.34
+PRD00303,Readly Books 303,Books & Media,Books,Readly,508.88
+PRD00304,CycloMax Outdoor 304,Sports & Outdoors,Outdoor,CycloMax,3364.46
+PRD00305,SoleCraft Women 305,Fashion,Women,SoleCraft,1025.33
+PRD00306,DermaVie Fragrance 306,Beauty,Fragrance,DermaVie,785.72
+PRD00307,Readly Music 307,Books & Media,Music,Readly,612.8
+PRD00308,AromaNest Makeup 308,Beauty,Makeup,AromaNest,553.65
+PRD00309,AromaNest Fragrance 309,Beauty,Fragrance,AromaNest,1683.42
+PRD00310,Snackster Snacks 310,Grocery,Snacks,Snackster,189.53
+PRD00311,LumaHome Furniture 311,Home & Living,Furniture,LumaHome,2894.44
+PRD00312,GlowLab Makeup 312,Beauty,Makeup,GlowLab,1226.43
+PRD00313,LumaHome Cleaning 313,Home & Living,Cleaning,LumaHome,3250.17
+PRD00314,Readly Music 314,Books & Media,Music,Readly,100.3
+PRD00315,Elyra Shoes 315,Fashion,Shoes,Elyra,1069.82
+PRD00316,CycloMax Team Sports 316,Sports & Outdoors,Team Sports,CycloMax,2380.81
+PRD00317,SoleCraft Men 317,Fashion,Men,SoleCraft,2090.1
+PRD00318,TrailPeak Fitness 318,Sports & Outdoors,Fitness,TrailPeak,2792.36
+PRD00319,Readly Movies 319,Books & Media,Movies,Readly,875.92
+PRD00320,TrailPeak Outdoor 320,Sports & Outdoors,Outdoor,TrailPeak,3964.59
+PRD00321,AromaNest Haircare 321,Beauty,Haircare,AromaNest,1356.79
+PRD00322,StudioArc Music 322,Books & Media,Music,StudioArc,435.63
+PRD00323,TekNova Audio 323,Electronics,Audio,TekNova,7009.72
+PRD00324,TrailPeak Fitness 324,Sports & Outdoors,Fitness,TrailPeak,2929.17
+PRD00325,GlowLab Fragrance 325,Beauty,Fragrance,GlowLab,987.91
+PRD00326,PaperMuse Music 326,Books & Media,Music,PaperMuse,892.26
+PRD00327,Elyra Bags 327,Fashion,Bags,Elyra,819.11
+PRD00328,DailyDrop Snacks 328,Grocery,Snacks,DailyDrop,195.62
+PRD00329,FitSphere Cycling 329,Sports & Outdoors,Cycling,FitSphere,3404.8
+PRD00330,Elyra Kids 330,Fashion,Kids,Elyra,2196.21
+PRD00331,Mira Small Appliances 331,Home & Living,Small Appliances,Mira,708.62
+PRD00332,UrbanLeaf Shoes 332,Fashion,Shoes,UrbanLeaf,1336.99
+PRD00333,ArenaPro Fitness 333,Sports & Outdoors,Fitness,ArenaPro,3272.56
+PRD00334,Snackster Breakfast 334,Grocery,Breakfast,Snackster,139.52
+PRD00335,TrailPeak Fitness 335,Sports & Outdoors,Fitness,TrailPeak,2400.75
+PRD00336,StudioArc Books 336,Books & Media,Books,StudioArc,691.91
+PRD00337,AromaNest Haircare 337,Beauty,Haircare,AromaNest,988.23
+PRD00338,DermaVie Fragrance 338,Beauty,Fragrance,DermaVie,151.94
+PRD00339,AromaNest Skincare 339,Beauty,Skincare,AromaNest,994.66
+PRD00340,Voxa Accessories 340,Electronics,Accessories,Voxa,4116.63
+PRD00341,CleanBee Kitchen 341,Home & Living,Kitchen,CleanBee,2167.19
+PRD00342,Snackster Staples 342,Grocery,Staples,Snackster,339.25
+PRD00343,FitSphere Fitness 343,Sports & Outdoors,Fitness,FitSphere,2733.23
+PRD00344,DailyDrop Breakfast 344,Grocery,Breakfast,DailyDrop,240.84
+PRD00345,TrailPeak Fitness 345,Sports & Outdoors,Fitness,TrailPeak,2425.86
+PRD00346,ArenaPro Team Sports 346,Sports & Outdoors,Team Sports,ArenaPro,1069.15
+PRD00347,PaperMuse Books 347,Books & Media,Books,PaperMuse,863.62
+PRD00348,PaperMuse Movies 348,Books & Media,Movies,PaperMuse,175.04
+PRD00349,SoleCraft Men 349,Fashion,Men,SoleCraft,275.63
+PRD00350,Snackster Breakfast 350,Grocery,Breakfast,Snackster,184.42
+PRD00351,UrbanLeaf Kids 351,Fashion,Kids,UrbanLeaf,1932.71
+PRD00352,TrailPeak Fitness 352,Sports & Outdoors,Fitness,TrailPeak,2488.38
+PRD00353,Orbi Accessories 353,Electronics,Accessories,Orbi,6865.38
+PRD00354,PureMint Haircare 354,Beauty,Haircare,PureMint,1414.25
+PRD00355,PaperMuse Movies 355,Books & Media,Movies,PaperMuse,855.41
+PRD00356,Elyra Shoes 356,Fashion,Shoes,Elyra,1648.59
+PRD00357,Kiddo Men 357,Fashion,Men,Kiddo,1750.4
+PRD00358,Brew&Co Beverages 358,Grocery,Beverages,Brew&Co,271.18
+PRD00359,GlowLab Makeup 359,Beauty,Makeup,GlowLab,1660.92
+PRD00360,Readly Movies 360,Books & Media,Movies,Readly,225.39
+PRD00361,CleanBee Furniture 361,Home & Living,Furniture,CleanBee,3099.21
+PRD00362,GlowLab Skincare 362,Beauty,Skincare,GlowLab,1327.29
+PRD00363,Auron Computers 363,Electronics,Computers,Auron,3390.77
+PRD00364,TrailPeak Cycling 364,Sports & Outdoors,Cycling,TrailPeak,3674.31
+PRD00365,Orbi Audio 365,Electronics,Audio,Orbi,1231.85
+PRD00366,HyperSound Computers 366,Electronics,Computers,HyperSound,7781.11
+PRD00367,FitSphere Outdoor 367,Sports & Outdoors,Outdoor,FitSphere,2732.51
+PRD00368,TrailPeak Team Sports 368,Sports & Outdoors,Team Sports,TrailPeak,868.87
+PRD00369,CycloMax Team Sports 369,Sports & Outdoors,Team Sports,CycloMax,2918.91
+PRD00370,DailyDrop Staples 370,Grocery,Staples,DailyDrop,292.05
+PRD00371,UrbanLeaf Bags 371,Fashion,Bags,UrbanLeaf,453.32
+PRD00372,PaperMuse Stationery 372,Books & Media,Stationery,PaperMuse,884.72
+PRD00373,DailyDrop Beverages 373,Grocery,Beverages,DailyDrop,345.51
+PRD00374,StudioArc Music 374,Books & Media,Music,StudioArc,353.62
+PRD00375,HyperSound Audio 375,Electronics,Audio,HyperSound,3273.64
+PRD00376,DailyDrop Beverages 376,Grocery,Beverages,DailyDrop,145.0
+PRD00377,Nord&Co Furniture 377,Home & Living,Furniture,Nord&Co,3266.74
+PRD00378,Voxa Gaming 378,Electronics,Gaming,Voxa,292.49
+PRD00379,Brew&Co Staples 379,Grocery,Staples,Brew&Co,286.98
+PRD00380,Mira Kitchen 380,Home & Living,Kitchen,Mira,555.4
+PRD00381,LumaHome Furniture 381,Home & Living,Furniture,LumaHome,421.77
+PRD00382,TekNova Computers 382,Electronics,Computers,TekNova,10804.44
+PRD00383,Mira Cleaning 383,Home & Living,Cleaning,Mira,3402.05
+PRD00384,DailyDrop Beverages 384,Grocery,Beverages,DailyDrop,174.82
+PRD00385,PaperMuse Stationery 385,Books & Media,Stationery,PaperMuse,551.5
+PRD00386,Mira Home Decor 386,Home & Living,Home Decor,Mira,2883.75
+PRD00387,DermaVie Skincare 387,Beauty,Skincare,DermaVie,1164.7
+PRD00388,LumaHome Furniture 388,Home & Living,Furniture,LumaHome,2060.27
+PRD00389,DailyDrop Snacks 389,Grocery,Snacks,DailyDrop,35.73
+PRD00390,Auron Accessories 390,Electronics,Accessories,Auron,7295.52
+PRD00391,DermaVie Skincare 391,Beauty,Skincare,DermaVie,111.32
+PRD00392,Readly Music 392,Books & Media,Music,Readly,851.97
+PRD00393,TrailPeak Fitness 393,Sports & Outdoors,Fitness,TrailPeak,1254.27
+PRD00394,CleanBee Home Decor 394,Home & Living,Home Decor,CleanBee,434.01
+PRD00395,Kiddo Men 395,Fashion,Men,Kiddo,763.94
+PRD00396,HyperSound Audio 396,Electronics,Audio,HyperSound,8086.81
+PRD00397,FitSphere Team Sports 397,Sports & Outdoors,Team Sports,FitSphere,3438.04
+PRD00398,FitSphere Team Sports 398,Sports & Outdoors,Team Sports,FitSphere,1232.57
+PRD00399,CycloMax Team Sports 399,Sports & Outdoors,Team Sports,CycloMax,1161.83
+PRD00400,CleanBee Small Appliances 400,Home & Living,Small Appliances,CleanBee,2612.32
+PRD00401,Readly Books 401,Books & Media,Books,Readly,256.47
+PRD00402,PaperMuse Music 402,Books & Media,Music,PaperMuse,239.59
+PRD00403,HyperSound Computers 403,Electronics,Computers,HyperSound,10240.83
+PRD00404,Auron Computers 404,Electronics,Computers,Auron,10572.05
+PRD00405,PaperMuse Books 405,Books & Media,Books,PaperMuse,201.56
+PRD00406,GlowLab Fragrance 406,Beauty,Fragrance,GlowLab,1383.7
+PRD00407,Readly Music 407,Books & Media,Music,Readly,57.58
+PRD00408,Voxa Accessories 408,Electronics,Accessories,Voxa,9527.31
+PRD00409,AromaNest Makeup 409,Beauty,Makeup,AromaNest,790.25
+PRD00410,GrainHouse Snacks 410,Grocery,Snacks,GrainHouse,249.49
+PRD00411,LumaHome Home Decor 411,Home & Living,Home Decor,LumaHome,793.57
+PRD00412,TrailPeak Outdoor 412,Sports & Outdoors,Outdoor,TrailPeak,3434.31
+PRD00413,SoleCraft Women 413,Fashion,Women,SoleCraft,1122.64
+PRD00414,CycloMax Team Sports 414,Sports & Outdoors,Team Sports,CycloMax,2484.59
+PRD00415,Readly Movies 415,Books & Media,Movies,Readly,133.38
+PRD00416,AromaNest Makeup 416,Beauty,Makeup,AromaNest,899.64
+PRD00417,CycloMax Fitness 417,Sports & Outdoors,Fitness,CycloMax,3557.25
+PRD00418,FitSphere Team Sports 418,Sports & Outdoors,Team Sports,FitSphere,3471.09
+PRD00419,LumaHome Furniture 419,Home & Living,Furniture,LumaHome,1784.11
+PRD00420,Kiddo Women 420,Fashion,Women,Kiddo,1798.09
+PRD00421,CleanBee Home Decor 421,Home & Living,Home Decor,CleanBee,1604.41
+PRD00422,Auron Smartphones 422,Electronics,Smartphones,Auron,9247.43
+PRD00423,HyperSound Audio 423,Electronics,Audio,HyperSound,3687.99
+PRD00424,StudioArc Music 424,Books & Media,Music,StudioArc,471.04
+PRD00425,AromaNest Fragrance 425,Beauty,Fragrance,AromaNest,476.08
+PRD00426,Orbi Smartphones 426,Electronics,Smartphones,Orbi,7330.04
+PRD00427,Mira Small Appliances 427,Home & Living,Small Appliances,Mira,2366.08
+PRD00428,DermaVie Skincare 428,Beauty,Skincare,DermaVie,1097.23
+PRD00429,Nord&Co Cleaning 429,Home & Living,Cleaning,Nord&Co,183.32
+PRD00430,GlowLab Skincare 430,Beauty,Skincare,GlowLab,449.43
+PRD00431,Brew&Co Beverages 431,Grocery,Beverages,Brew&Co,242.62
+PRD00432,LumaHome Small Appliances 432,Home & Living,Small Appliances,LumaHome,802.38
+PRD00433,PaperMuse Stationery 433,Books & Media,Stationery,PaperMuse,85.87
+PRD00434,UrbanLeaf Women 434,Fashion,Women,UrbanLeaf,454.77
+PRD00435,SoleCraft Men 435,Fashion,Men,SoleCraft,1221.04
+PRD00436,Auron Audio 436,Electronics,Audio,Auron,5302.81
+PRD00437,TrailPeak Outdoor 437,Sports & Outdoors,Outdoor,TrailPeak,3969.92
+PRD00438,ArenaPro Cycling 438,Sports & Outdoors,Cycling,ArenaPro,2596.55
+PRD00439,Mira Furniture 439,Home & Living,Furniture,Mira,3369.65
+PRD00440,Readly Stationery 440,Books & Media,Stationery,Readly,724.38
+PRD00441,FitSphere Fitness 441,Sports & Outdoors,Fitness,FitSphere,1090.66
+PRD00442,LumaHome Furniture 442,Home & Living,Furniture,LumaHome,1829.44
+PRD00443,CasaPro Small Appliances 443,Home & Living,Small Appliances,CasaPro,3459.56
+PRD00444,Brew&Co Breakfast 444,Grocery,Breakfast,Brew&Co,288.97
+PRD00445,GlowLab Fragrance 445,Beauty,Fragrance,GlowLab,1734.73
+PRD00446,DermaVie Makeup 446,Beauty,Makeup,DermaVie,308.68
+PRD00447,TrailPeak Outdoor 447,Sports & Outdoors,Outdoor,TrailPeak,3140.04
+PRD00448,Auron Smartphones 448,Electronics,Smartphones,Auron,2677.9
+PRD00449,FitSphere Cycling 449,Sports & Outdoors,Cycling,FitSphere,1791.83
+PRD00450,PaperMuse Books 450,Books & Media,Books,PaperMuse,66.73
+PRD00451,Elyra Shoes 451,Fashion,Shoes,Elyra,1396.14
+PRD00452,LumaHome Small Appliances 452,Home & Living,Small Appliances,LumaHome,2424.73
+PRD00453,DermaVie Haircare 453,Beauty,Haircare,DermaVie,1296.32
+PRD00454,FitSphere Team Sports 454,Sports & Outdoors,Team Sports,FitSphere,3240.65
+PRD00455,DermaVie Skincare 455,Beauty,Skincare,DermaVie,1713.22
+PRD00456,PureMint Skincare 456,Beauty,Skincare,PureMint,280.7
+PRD00457,CasaPro Kitchen 457,Home & Living,Kitchen,CasaPro,1511.56
+PRD00458,DailyDrop Beverages 458,Grocery,Beverages,DailyDrop,187.81
+PRD00459,ArenaPro Team Sports 459,Sports & Outdoors,Team Sports,ArenaPro,866.18
+PRD00460,Brew&Co Breakfast 460,Grocery,Breakfast,Brew&Co,289.66
+PRD00461,CasaPro Furniture 461,Home & Living,Furniture,CasaPro,1401.4
+PRD00462,GlowLab Fragrance 462,Beauty,Fragrance,GlowLab,1668.23
+PRD00463,PaperMuse Movies 463,Books & Media,Movies,PaperMuse,467.5
+PRD00464,TekNova Audio 464,Electronics,Audio,TekNova,7876.94
+PRD00465,PaperMuse Books 465,Books & Media,Books,PaperMuse,864.76
+PRD00466,Brew&Co Breakfast 466,Grocery,Breakfast,Brew&Co,120.7
+PRD00467,DermaVie Skincare 467,Beauty,Skincare,DermaVie,941.52
+PRD00468,ArenaPro Team Sports 468,Sports & Outdoors,Team Sports,ArenaPro,904.96
+PRD00469,ArenaPro Outdoor 469,Sports & Outdoors,Outdoor,ArenaPro,1563.66
+PRD00470,FitSphere Fitness 470,Sports & Outdoors,Fitness,FitSphere,433.04
+PRD00471,Mira Kitchen 471,Home & Living,Kitchen,Mira,1241.65
+PRD00472,Voxa Accessories 472,Electronics,Accessories,Voxa,2413.64
+PRD00473,Nord&Co Cleaning 473,Home & Living,Cleaning,Nord&Co,1955.06
+PRD00474,Auron Gaming 474,Electronics,Gaming,Auron,3949.82
+PRD00475,FitSphere Cycling 475,Sports & Outdoors,Cycling,FitSphere,1643.77
+PRD00476,GlowLab Haircare 476,Beauty,Haircare,GlowLab,321.33
+PRD00477,FitSphere Fitness 477,Sports & Outdoors,Fitness,FitSphere,2243.01
+PRD00478,CleanBee Small Appliances 478,Home & Living,Small Appliances,CleanBee,3340.7
+PRD00479,DermaVie Haircare 479,Beauty,Haircare,DermaVie,1646.25
+PRD00480,Voxa Computers 480,Electronics,Computers,Voxa,2304.12
+PRD00481,LumaHome Small Appliances 481,Home & Living,Small Appliances,LumaHome,1139.01
+PRD00482,CasaPro Home Decor 482,Home & Living,Home Decor,CasaPro,2695.66
+PRD00483,LumaHome Home Decor 483,Home & Living,Home Decor,LumaHome,1089.04
+PRD00484,CycloMax Cycling 484,Sports & Outdoors,Cycling,CycloMax,3331.63
+PRD00485,Elyra Bags 485,Fashion,Bags,Elyra,740.49
+PRD00486,LumaHome Furniture 486,Home & Living,Furniture,LumaHome,601.77
+PRD00487,PaperMuse Music 487,Books & Media,Music,PaperMuse,649.98
+PRD00488,Elyra Bags 488,Fashion,Bags,Elyra,879.62
+PRD00489,PaperMuse Stationery 489,Books & Media,Stationery,PaperMuse,45.44
+PRD00490,UrbanLeaf Women 490,Fashion,Women,UrbanLeaf,1180.89
+PRD00491,HyperSound Accessories 491,Electronics,Accessories,HyperSound,4998.82
+PRD00492,HyperSound Computers 492,Electronics,Computers,HyperSound,6777.81
+PRD00493,Snackster Staples 493,Grocery,Staples,Snackster,42.06
+PRD00494,PureMint Makeup 494,Beauty,Makeup,PureMint,977.73
+PRD00495,Brew&Co Beverages 495,Grocery,Beverages,Brew&Co,35.64
+PRD00496,Nord&Co Furniture 496,Home & Living,Furniture,Nord&Co,2471.51
+PRD00497,TekNova Computers 497,Electronics,Computers,TekNova,11716.76
+PRD00498,Orbi Audio 498,Electronics,Audio,Orbi,7337.65
+PRD00499,SoleCraft Bags 499,Fashion,Bags,SoleCraft,1917.85
+PRD00500,Voxa Smartphones 500,Electronics,Smartphones,Voxa,6228.32
+PRD00501,LumaHome Small Appliances 501,Home & Living,Small Appliances,LumaHome,1895.19
+PRD00502,LumaHome Cleaning 502,Home & Living,Cleaning,LumaHome,3115.87
+PRD00503,PureMint Fragrance 503,Beauty,Fragrance,PureMint,1469.84
+PRD00504,Readly Music 504,Books & Media,Music,Readly,569.34
+PRD00505,Orbi Gaming 505,Electronics,Gaming,Orbi,10940.07
+PRD00506,Nord&Co Home Decor 506,Home & Living,Home Decor,Nord&Co,1458.13
+PRD00507,CasaPro Home Decor 507,Home & Living,Home Decor,CasaPro,121.78
+PRD00508,Brew&Co Beverages 508,Grocery,Beverages,Brew&Co,278.93
+PRD00509,HyperSound Gaming 509,Electronics,Gaming,HyperSound,9934.81
+PRD00510,SoleCraft Women 510,Fashion,Women,SoleCraft,277.78
+PRD00511,FitSphere Fitness 511,Sports & Outdoors,Fitness,FitSphere,603.49
+PRD00512,HyperSound Audio 512,Electronics,Audio,HyperSound,11408.22
+PRD00513,CycloMax Team Sports 513,Sports & Outdoors,Team Sports,CycloMax,2006.29
+PRD00514,Voxa Computers 514,Electronics,Computers,Voxa,7998.74
+PRD00515,PaperMuse Stationery 515,Books & Media,Stationery,PaperMuse,662.29
+PRD00516,CleanBee Home Decor 516,Home & Living,Home Decor,CleanBee,1865.23
+PRD00517,PureMint Makeup 517,Beauty,Makeup,PureMint,1390.11
+PRD00518,Nord&Co Furniture 518,Home & Living,Furniture,Nord&Co,2667.28
+PRD00519,ArenaPro Outdoor 519,Sports & Outdoors,Outdoor,ArenaPro,754.11
+PRD00520,PureMint Haircare 520,Beauty,Haircare,PureMint,1004.37
+PRD00521,SoleCraft Men 521,Fashion,Men,SoleCraft,1327.32
+PRD00522,CasaPro Small Appliances 522,Home & Living,Small Appliances,CasaPro,3164.69
+PRD00523,Elyra Men 523,Fashion,Men,Elyra,733.43
+PRD00524,Elyra Bags 524,Fashion,Bags,Elyra,103.35
+PRD00525,Elyra Shoes 525,Fashion,Shoes,Elyra,156.17
+PRD00526,Kiddo Men 526,Fashion,Men,Kiddo,414.24
+PRD00527,DailyDrop Snacks 527,Grocery,Snacks,DailyDrop,340.0
+PRD00528,FitSphere Outdoor 528,Sports & Outdoors,Outdoor,FitSphere,1207.18
+PRD00529,StudioArc Stationery 529,Books & Media,Stationery,StudioArc,347.53
+PRD00530,GlowLab Skincare 530,Beauty,Skincare,GlowLab,868.09
+PRD00531,AromaNest Makeup 531,Beauty,Makeup,AromaNest,1097.17
+PRD00532,UrbanLeaf Shoes 532,Fashion,Shoes,UrbanLeaf,698.88
+PRD00533,GrainHouse Breakfast 533,Grocery,Breakfast,GrainHouse,273.15
+PRD00534,PaperMuse Music 534,Books & Media,Music,PaperMuse,784.49
+PRD00535,Orbi Accessories 535,Electronics,Accessories,Orbi,598.17
+PRD00536,HyperSound Smartphones 536,Electronics,Smartphones,HyperSound,3584.16
+PRD00537,Brew&Co Breakfast 537,Grocery,Breakfast,Brew&Co,68.73
+PRD00538,Readly Music 538,Books & Media,Music,Readly,793.66
+PRD00539,FitSphere Outdoor 539,Sports & Outdoors,Outdoor,FitSphere,412.28
+PRD00540,StudioArc Movies 540,Books & Media,Movies,StudioArc,593.63
+PRD00541,StudioArc Books 541,Books & Media,Books,StudioArc,196.36
+PRD00542,GlowLab Skincare 542,Beauty,Skincare,GlowLab,1204.4
+PRD00543,Brew&Co Beverages 543,Grocery,Beverages,Brew&Co,111.07
+PRD00544,Auron Audio 544,Electronics,Audio,Auron,6704.49
+PRD00545,PureMint Skincare 545,Beauty,Skincare,PureMint,543.19
+PRD00546,FitSphere Team Sports 546,Sports & Outdoors,Team Sports,FitSphere,802.3
+PRD00547,Auron Smartphones 547,Electronics,Smartphones,Auron,707.77
+PRD00548,AromaNest Skincare 548,Beauty,Skincare,AromaNest,802.61
+PRD00549,Snackster Staples 549,Grocery,Staples,Snackster,286.65
+PRD00550,LumaHome Cleaning 550,Home & Living,Cleaning,LumaHome,1016.06
+PRD00551,TrailPeak Fitness 551,Sports & Outdoors,Fitness,TrailPeak,300.66
+PRD00552,Orbi Computers 552,Electronics,Computers,Orbi,4337.48
+PRD00553,SoleCraft Bags 553,Fashion,Bags,SoleCraft,916.45
+PRD00554,Readly Movies 554,Books & Media,Movies,Readly,407.99
+PRD00555,Voxa Accessories 555,Electronics,Accessories,Voxa,3139.65
+PRD00556,Readly Books 556,Books & Media,Books,Readly,100.34
+PRD00557,FitSphere Cycling 557,Sports & Outdoors,Cycling,FitSphere,1451.86
+PRD00558,Mira Small Appliances 558,Home & Living,Small Appliances,Mira,249.41
+PRD00559,NovaWear Men 559,Fashion,Men,NovaWear,1380.66
+PRD00560,TekNova Smartphones 560,Electronics,Smartphones,TekNova,5919.82
+PRD00561,Kiddo Shoes 561,Fashion,Shoes,Kiddo,998.19
+PRD00562,PureMint Haircare 562,Beauty,Haircare,PureMint,853.65
+PRD00563,AromaNest Skincare 563,Beauty,Skincare,AromaNest,1656.88
+PRD00564,LumaHome Kitchen 564,Home & Living,Kitchen,LumaHome,547.96
+PRD00565,DermaVie Makeup 565,Beauty,Makeup,DermaVie,1386.18
+PRD00566,Nord&Co Small Appliances 566,Home & Living,Small Appliances,Nord&Co,2575.51
+PRD00567,CleanBee Home Decor 567,Home & Living,Home Decor,CleanBee,1543.86
+PRD00568,PureMint Makeup 568,Beauty,Makeup,PureMint,793.29
+PRD00569,StudioArc Movies 569,Books & Media,Movies,StudioArc,750.83
+PRD00570,DailyDrop Snacks 570,Grocery,Snacks,DailyDrop,147.27
+PRD00571,Voxa Accessories 571,Electronics,Accessories,Voxa,7957.01
+PRD00572,Auron Gaming 572,Electronics,Gaming,Auron,11407.48
+PRD00573,CleanBee Small Appliances 573,Home & Living,Small Appliances,CleanBee,474.23
+PRD00574,PaperMuse Music 574,Books & Media,Music,PaperMuse,625.17
+PRD00575,Brew&Co Snacks 575,Grocery,Snacks,Brew&Co,247.84
+PRD00576,LumaHome Cleaning 576,Home & Living,Cleaning,LumaHome,849.58
+PRD00577,Orbi Accessories 577,Electronics,Accessories,Orbi,10693.26
+PRD00578,PureMint Fragrance 578,Beauty,Fragrance,PureMint,460.58
+PRD00579,GrainHouse Breakfast 579,Grocery,Breakfast,GrainHouse,68.92
+PRD00580,Elyra Bags 580,Fashion,Bags,Elyra,790.5
+PRD00581,AromaNest Fragrance 581,Beauty,Fragrance,AromaNest,352.89
+PRD00582,TrailPeak Team Sports 582,Sports & Outdoors,Team Sports,TrailPeak,2182.24
+PRD00583,AromaNest Fragrance 583,Beauty,Fragrance,AromaNest,496.83
+PRD00584,ArenaPro Outdoor 584,Sports & Outdoors,Outdoor,ArenaPro,737.2
+PRD00585,LumaHome Small Appliances 585,Home & Living,Small Appliances,LumaHome,1168.42
+PRD00586,Orbi Computers 586,Electronics,Computers,Orbi,7090.46
+PRD00587,Readly Books 587,Books & Media,Books,Readly,830.68
+PRD00588,UrbanLeaf Shoes 588,Fashion,Shoes,UrbanLeaf,820.47
+PRD00589,Brew&Co Snacks 589,Grocery,Snacks,Brew&Co,274.3
+PRD00590,CycloMax Team Sports 590,Sports & Outdoors,Team Sports,CycloMax,912.94
+PRD00591,Orbi Accessories 591,Electronics,Accessories,Orbi,5968.84
+PRD00592,PureMint Makeup 592,Beauty,Makeup,PureMint,1102.32
+PRD00593,HyperSound Smartphones 593,Electronics,Smartphones,HyperSound,7476.11
+PRD00594,DermaVie Skincare 594,Beauty,Skincare,DermaVie,1798.1
+PRD00595,ArenaPro Cycling 595,Sports & Outdoors,Cycling,ArenaPro,1185.78
+PRD00596,Mira Cleaning 596,Home & Living,Cleaning,Mira,656.68
+PRD00597,DailyDrop Staples 597,Grocery,Staples,DailyDrop,344.75
+PRD00598,Elyra Bags 598,Fashion,Bags,Elyra,809.0
+PRD00599,Kiddo Women 599,Fashion,Women,Kiddo,950.91
+PRD00600,Snackster Breakfast 600,Grocery,Breakfast,Snackster,303.71
+PRD00601,CleanBee Furniture 601,Home & Living,Furniture,CleanBee,2181.26
+PRD00602,Kiddo Bags 602,Fashion,Bags,Kiddo,1672.21
+PRD00603,StudioArc Movies 603,Books & Media,Movies,StudioArc,515.19
+PRD00604,Voxa Computers 604,Electronics,Computers,Voxa,2762.36
+PRD00605,Kiddo Kids 605,Fashion,Kids,Kiddo,546.62
+PRD00606,AromaNest Haircare 606,Beauty,Haircare,AromaNest,916.5
+PRD00607,CleanBee Kitchen 607,Home & Living,Kitchen,CleanBee,294.65
+PRD00608,AromaNest Fragrance 608,Beauty,Fragrance,AromaNest,1199.53
+PRD00609,CleanBee Kitchen 609,Home & Living,Kitchen,CleanBee,2219.84
+PRD00610,UrbanLeaf Bags 610,Fashion,Bags,UrbanLeaf,1467.89
+PRD00611,TekNova Gaming 611,Electronics,Gaming,TekNova,6483.08
+PRD00612,Orbi Smartphones 612,Electronics,Smartphones,Orbi,11697.09
+PRD00613,PaperMuse Books 613,Books & Media,Books,PaperMuse,102.94
